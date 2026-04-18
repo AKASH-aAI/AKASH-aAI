@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Akash
 
-<!--
-**AKASH-aAI/AKASH-aAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Machine Learning Enthusiast
+🧠 Focused on NLP & Deep Learning
 
-Here are some ideas to get you started:
+## 💻 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python, NumPy, Pandas
+* Exploratory Data Analysis (EDA)
+* Machine Learning (scikit-learn)
+* Deep Learning (ANN basics)
+
+## 📌 Projects
+
+* Food Delivery Time Prediction
+* More coming soon...
+
+## 🎯 Currently Exploring
+
+* NLP & RAG
+* SQL
+
+## 📫 Connect with me
+
+* LinkedIn: https://www.linkedin.com/in/akash-chauhan-a79605397/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGaCQDxtDSm%2BwtCjE6G5YmQ%3D%3D

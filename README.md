@@ -13,6 +13,7 @@
 ## 📌 Projects
 
 * Food Delivery Time Prediction
+* Emotion Sentiment NLP
 * More coming soon...
 
 ## 🎯 Currently Exploring

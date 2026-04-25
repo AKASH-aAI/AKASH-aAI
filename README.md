@@ -12,8 +12,9 @@
 
 ## 📌 Projects
 
-* Food Delivery Time Prediction
-* Emotion Sentiment NLP
+* End to end Credit card fraud detection ML project 
+* Food Delivery Time Prediction with web app 
+* Emotion Sentiment NLP project 
 * More coming soon...
 
 ## 🎯 Currently Exploring

@@ -6,9 +6,11 @@
 ## 💻 Skills
 
 * Python, NumPy, Pandas
+* SQL
 * Exploratory Data Analysis (EDA)
 * Machine Learning (scikit-learn)
-* Deep Learning (ANN basics)
+* Deep Learning (PyTorch)
+* NLP
 
 ## 📌 Projects
 
@@ -20,8 +22,7 @@
 
 ## 🎯 Currently Exploring
 
-* NLP & RAG
-* SQL
+* NLP advance 
 
 ## 📫 Connect with me
 

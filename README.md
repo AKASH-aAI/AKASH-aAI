@@ -27,11 +27,13 @@
 
 ## 📌 Projects
 
-- 🛒 E-Commerce Sales Analysis (Dashboard + end to end project with report)
-- 🏋️ AI-Powered Gym Trainer
+- 🏭 Supply Chain Analytics Dashboard
+- 🛒 E-Commerce Sales Analysis (Dashboard + End-to-End Project with Report)
+- 👥 HR Analytics Attrition Prediction
 - 📄 AI Data Report Generator
 - 💳 Credit Card Fraud Detection
 - 🍔 Food Delivery Time Prediction
+- 🏋️ AI-Powered Gym Trainer
 - 😊 Emotion Detection using NLP
 
 ## 🎯 Currently Exploring

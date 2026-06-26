@@ -9,7 +9,7 @@ Turning raw data into meaningful business insights through analytics, visualizat
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&center=true&vCenter=true&width=800&lines=Data+Analytics+%26+Data+Science;Working+on+Data+Analytics+%26+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Building+End-to-End+Data+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&center=true&vCenter=true&width=800&lines=Data+Analytics+%26+Data+Science;Python+%7C+SQL+%7C+Power+BI;Machine+Learning;Building+End-to-End+Data+Projects" />
 </p>
 
 ---

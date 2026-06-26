@@ -1,34 +1,29 @@
-<!-- Header Wave Animation - Reduced Height -->
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=140&section=header&text=Akash%20Chauhan&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20%7C%20Data%20Science%20%7C%20Machine%20Learning&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=140&section=header&text=Akash%20Chauhan&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20%7C%20Data%20Science%20%7C%20Machine%20Learning&descAlignY=58&descAlign=50" width="100%" />
 </p>
 
-<!-- Visitor Counter & Typing Animation -->
+<!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AKASH-aAI&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Active-success?style=flat&color=0e75b6" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=AKASH-aAI&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-0e75b6?style=for-the-badge"/>
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Data+Analytics+%26+Data+Science;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Projects;Turning+Data+into+Business+Insights;End-to-End+Data+Analytics+Projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&color=6C63FF&center=true&vCenter=true&width=900&height=60&lines=Data+Analytics+%26+Data+Science;Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Projects;Turning+Data+into+Business+Insights;End-to-End+Data+Analytics+Projects"/>
 </p>
 
 ---
 
-<!-- About Me - Glassmorphism Card -->
+## ⚡ Data Analytics & Data Science
+
 <div align="center">
-  <table>
-    <tr>
-      <td width="900px" style="background: rgba(255, 255, 255, 0.05); backdrop-filter: blur(10px); border-radius: 20px; padding: 30px; border: 1px solid rgba(255, 255, 255, 0.1);">
-        <h3 align="center" style="color: #6C63FF;">⚡ Data Analytics & Data Science Professional</h3>
-        <p align="center" style="font-size: 16px; line-height: 1.8; color: #e0e0e0;">
-          Building end-to-end Data Analytics and Machine Learning solutions.<br>
-          Specialized in <strong style="color: #6C63FF;">Business Intelligence</strong>, <strong style="color: #6C63FF;">Analytics</strong>, and <strong style="color: #6C63FF;">AI/NLP</strong>.<br>
-          Passionate about solving real-world business problems using data-driven insights.
-        </p>
-      </td>
-    </tr>
-  </table>
+
+| |
+|:---:|
+| <h3>Building end-to-end <b>Data Analytics</b> and <b>Machine Learning</b> solutions.</h3><h3>Specialized in <b>Business Intelligence</b>, <b>Analytics</b>, and <b>AI/NLP</b>.</h3><h3>Passionate about solving real-world business problems using <b>data-driven insights</b>.</h3> |
+
 </div>
 
 <br>

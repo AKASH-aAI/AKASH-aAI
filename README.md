@@ -151,8 +151,6 @@ Machine Learning model for predicting delivery time using real-world data.
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=AKASH-aAI&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKASH-aAI&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
